@@ -9,10 +9,12 @@
 
 export{};
 
-//Method 1
 let guest_list = ["Ali" , "Ahmed" , "Arif"];
+
 console.log(guest_list);
+
 console.log(" ".repeat(55) + "Line Break" + " ".repeat(20));
+
 for (let i = 0 ; i <3 ; i++){
     console.log("Dear " + guest_list[i] + " you are invited to dinner on sunday night at 8:00 pm.")
 

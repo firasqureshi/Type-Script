@@ -4,7 +4,6 @@
 // You’ll have to think of someone else to invite.
 // • Start with your program from Exercise 14. Add a print statement at the end of your program stating the name of the guest who can’t make it.
 Object.defineProperty(exports, "__esModule", { value: true });
-//Method 1
 let guest_list = ["Ali", "Ahmed", "Arif"];
 console.log(guest_list);
 console.log(" ".repeat(55) + "Line Break" + " ".repeat(20));
