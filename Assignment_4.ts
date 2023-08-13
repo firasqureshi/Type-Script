@@ -11,4 +11,4 @@ let quote :string = "A person who never made a mistake never tried anything new.
 console.log(quote);
 
 // used template literals
-console.log(`${author} once said, "${quote}"`);
+console.log(author + ' once said, "' + quote + '"' );

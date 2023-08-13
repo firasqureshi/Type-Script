@@ -7,4 +7,5 @@ let author = "Albert Einstein";
 console.log(author);
 let quote = "A person who never made a mistake never tried anything new.";
 console.log(quote);
-console.log(`${author} once said, "${quote}"`);
+// used template literals
+console.log(author + ' once said, "' + quote + '"');
