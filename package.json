@@ -9,6 +9,9 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "dependencies": {
+    "react-icons": "^4.10.1"
+  },
   "devDependencies": {
     "@types/node": "^20.4.8"
   }
